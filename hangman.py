@@ -65,15 +65,3 @@ class Hangman:
 if __name__ == "__main__":
     game = Hangman("SOMETHING")
     game.play()
-
-
-
-
-
-
-
-
-
-
-
-
